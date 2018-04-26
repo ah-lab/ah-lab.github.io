@@ -1,3 +1,3 @@
 name: Ahlab
 markdown: kramdown
-remote_theme: phlow/feelingresponsive
+remote_theme: mmistakes/minimal-mistakes
